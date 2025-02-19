@@ -24,7 +24,6 @@ cycler==0.12.1
 debugpy==1.8.7
 decorator==5.1.1
 distro==1.9.0
-dlib==19.24.6
 et-xmlfile==1.1.0
 exceptiongroup==1.2.2
 executing==2.1.0
